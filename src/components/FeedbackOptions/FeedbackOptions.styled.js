@@ -21,7 +21,7 @@ export const VoiceButton = styled.button`
   cursor: pointer;
 
    border-radius: 25px;
-   background: linear-gradient(145deg, #FFB6C1, #ffd0d7);
+   background: linear-gradient(145deg, orange, red);
   box-shadow: 6px 6px 12px #c6c7d0, -6px -6px 12px #8ec8dc;
 
   &:hover {

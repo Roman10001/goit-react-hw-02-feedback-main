@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const Group = styled.div`
     padding: 20px;
     margin-bottom: 20px;
-  background-color: 	#ADD8E6;
+  background-color: 	teal;
   border-radius: 4px;
   
 
